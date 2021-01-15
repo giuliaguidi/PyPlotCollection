@@ -1,2 +1,2 @@
 # PyPlotCollection
-Collection of Python Script to Plot Data
+Collection of Python3 Script to Plot Data
